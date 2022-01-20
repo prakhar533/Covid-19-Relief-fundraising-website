@@ -4,7 +4,7 @@ Created this website to raise fund integrating multiple payment gateways like cr
 ## Developer - Prakhar Mor
 
 # Task
-> Payment Gateway Integration - https://ravigithub19.github.io/payment_gateway_integration/
+> Payment Gateway Integration - https://prakhar533.github.io/Covid-19-Relief-fundraising-website/
 
 ## Table of contents
 * Homepage
